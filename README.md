@@ -1,11 +1,11 @@
-*Employee Management SQL Project*
+**Employee Management SQL Project**
 
 *Objective*
 
 The objective of this project is to manage employee and department data efficiently using SQL queries. It demonstrates essential database operations such as data retrieval, manipulation, filtering, aggregation, and modification. This project covers CRUD operations, joins, unions, and other SQL functionalities for effective employee management.
 
 
-*Problem Statements*
+**Problem Statements**
 
 Below are the SQL queries used to perform different operations in the employee management system:
 
@@ -53,7 +53,7 @@ Delete from the table all employees who work in departments with a budget greate
 
 Delete from the table all employees. (DML - DELETE statement)
 
-*Technologies Used*
+**Technologies Used**
 
 SQL
 
@@ -78,7 +78,7 @@ Arithmetic and Logical Operators
 Data Filtering and Sorting (ORDER BY, GROUP BY, HAVING)
 
 
-*How to Use*
+**How to Use**
 
 - Clone this repository.
 
