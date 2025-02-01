@@ -1,6 +1,6 @@
 **Employee Management SQL Project**
 
-*Objective*
+**Objective**
 
 The objective of this project is to manage employee and department data efficiently using SQL queries. It demonstrates essential database operations such as data retrieval, manipulation, filtering, aggregation, and modification. This project covers CRUD operations, joins, unions, and other SQL functionalities for effective employee management.
 
